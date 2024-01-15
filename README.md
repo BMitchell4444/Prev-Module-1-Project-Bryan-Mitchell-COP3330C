@@ -1,1 +1,2 @@
-# Prev-Module-1-Project-Bryan-Mitchell-COP3330C-
+# Bryan Mitchell COP3024C 24667
+The program asks users for the length and width of two rectangles and the radius of two circles. It then displays the entered dimensions of each shape and the area of each shape. The purpose of the project is to learn about creating classes and class objects. The project also helps teach about the different ways a class object can be created, whether the values for that object are used when the object is created, or they are used later using setter functions to set the values of that object. 
